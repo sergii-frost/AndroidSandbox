@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="mobile_os_array">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Blackberry</item>
+        <item>Windows Phone</item>
+        <item>Symbian</item>
+        <item>Others</item>
+    </string-array>
+    
+	<string-array name="devices_lists_array">
+	    <item>@array/android_devices</item>
+	    <item>@array/ios_devices</item>
+	    <item>@array/blackberry_devices</item>
+	    <item>@array/windows_devices</item>
+	    <item>@array/symbian_devices</item>
+	    <item>@array/other_devices</item>
+	</string-array>
+	
+	<string-array name="android_devices">
+	    <item>Sony Ericcsson</item>
+	    <item>Samsung</item>
+	    <item>LG</item>
+	    <item>Google</item>
+	    <item>HTC</item>
+	    <item>Acer</item>
+	    <item>Motorola</item>
+	</string-array>
+	
+	<string-array name="ios_devices">
+	    <item>iPod 3G</item>
+	    <item>iPod 4G</item>
+	    <item>iPhone 3GS</item>
+	    <item>iPhone 4</item>
+	    <item>iPhone 4S</item>
+	    <item>iPad</item>
+	    <item>iPad 2</item>
+	    <item>The New iPad</item>
+	</string-array>
+	
+	<string-array name="blackberry_devices">
+	    <item>Blackberry 9630</item>
+	    <item>Blackberry 9700</item>
+	    <item>Blackberry 9800</item>
+	</string-array>
+	
+	<string-array name="windows_devices">
+	    <item>Nokia</item>
+	    <item>Toshiba</item>
+	    <item>HTC</item>
+	    <item>Others</item>
+	</string-array>
+	
+	<string-array name="symbian_devices">
+	    <item>Nokia NGage</item>
+	    <item>Nokia NGage QD</item>
+	    <item>Nokia 8800</item>
+	    <item>Other Old Nikia phones</item>
+	</string-array>
+	
+	<string-array name="other_devices">
+	    <item>Samsung with Bada OS</item>
+	    <item>Blackberry with QNX</item>
+	    <item>Chinese phones</item>
+	    <item>Old phones with no OS</item>
+	</string-array>
+	
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidDemoActivity!</string>
+    <string name="app_name">AndroidDemo</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="radiobutton_title">Test Radiobutton</string>
+    <string name="checkbox_toast_title">Use Toasts</string>
+    <string name="checkbox_dialog_title">Use Dialogs</string>    
+    <string name="text_on">Enabled</string>
+    <string name="text_off">Disabled</string>
+    <string name="go_further_button">Let\'s go further!</string>
+    
+    <string name="empty_email_message">Email field cannot be empty.</string>
+    <string name="empty_password_message">Password field cannot be empty.</string>
+    
+    <string name="ok_button_title">OK</string>
+    <string name="toast_prefix">Toast: </string>
+    <string name="dialog_prefix">Dialog: </string>
+
+</resources>
